@@ -59,6 +59,20 @@ LED indicators:
 - Easy to expand
 - User-friendly
 
+## Project Images
+
+### Hardware Setup
+![Hardware Setup](Hardware Setup.jpeg)
+
+### ThingSpeak Output
+![ThingSpeak](ThingSpeak Output.jpeg)
+
+### Blynk App
+![Blynk](Blynk App.jpeg)
+
+### Web Dashboard
+![Web](Web Dashboard.jpeg)
+
 ## Future Improvements
 - Automatic watering system
 - Mobile notifications
